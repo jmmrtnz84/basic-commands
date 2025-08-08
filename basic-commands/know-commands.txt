@@ -30,3 +30,6 @@ git checkout -b [branch name]
 
 git rm [filename]
 - to remove file/folder
+
+git branch -D [branch name]
+- to delete branch
