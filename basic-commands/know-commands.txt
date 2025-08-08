@@ -1,0 +1,27 @@
+mkdir [your folder name]
+- to make a folder using cmd
+
+cd "[file location]"
+- to locate file
+
+ni [filename] -it file
+- to create a file
+
+git commit -m ""
+- to update changes
+
+git remote add origin [link of your github repository].git
+- to connect local repository to github
+
+git branch -m main
+- to know what branch should the file should be put
+
+git push -u origin
+- to push the modified version to the github
+
+git mv [old filename] [new filename]
+- to rename the old file
+
+cd ..
+- to go back
+
