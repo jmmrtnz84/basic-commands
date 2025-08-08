@@ -28,3 +28,5 @@ cd ..
 git checkout -b [branch name]
 - to create new branch
 
+git rm [filename]
+- to remove file/folder
