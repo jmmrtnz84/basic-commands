@@ -25,3 +25,6 @@ git mv [old filename] [new filename]
 cd ..
 - to go back
 
+git checkout -b [branch name]
+- to create new branch
+
