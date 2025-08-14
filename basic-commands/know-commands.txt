@@ -37,4 +37,7 @@ git branch -D [branch name]
 git branch --set-upstream-to=origin/[remote branch] [local branch]
 - to remote the existing branch
 
+git remote add origin [your github link]
+- to connect local repository to github
+
 
