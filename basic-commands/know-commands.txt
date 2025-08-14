@@ -33,3 +33,8 @@ git rm [filename]
 
 git branch -D [branch name]
 - to delete branch
+
+git branch --set-upstream-to=origin/[remote branch] [local branch]
+- to remote the existing branch
+
+
